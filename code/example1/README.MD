@@ -1,0 +1,1 @@
+![namecount](../images/namelog.png
