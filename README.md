@@ -1,6 +1,7 @@
-# bash_python_
-notes for topics: to include python script in bash commands
+# bash_python
+Integrate Python scripts into system administration along with Bash commands
 
+To start with:
 ref: https://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts
 
 csv reader
