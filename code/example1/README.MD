@@ -1,1 +1,1 @@
-![namecount](../images/namelog.png
+![namecount](./images/namelog.png)
