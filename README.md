@@ -1,4 +1,4 @@
-# bash_python
+# bash_python_
 notes for topics: to include python script in bash commands
 
 ref: https://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts
